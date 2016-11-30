@@ -18,4 +18,4 @@ Los valores de los registros se van mostrando por su pata 9(out), y para pasar a
 Si se quieren unir dos registros solo hay que unir la pata 9 el primero con la 10 del último y que compartan tanto la señal de reloj como la señal de Load.
 
 ## Esquema de conexiones:
-https://github.com/ssxdan/SN74HC165_8Bit_shift_register_in/blob/master/Documentacion/74HC165_bb.png
+![conexiones](https://github.com/ssxdan/SN74HC165_8Bit_shift_register_in/blob/master/Documentacion/74HC165_bb.png)
