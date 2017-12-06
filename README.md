@@ -6,7 +6,7 @@ Para expandir puertos de entrada se utiliza el 74HC165, para este no hay tanta d
 
 Antes de seguir, lo bueno de estos registros de desplazamiento es que se pueden unir tantos como se quiera y no hacen falta más conexiones, usando 3 cables puedes tener 64 puertos de entrada.
 
-##Funcionamiento del 74HC165.
+## Funcionamiento del 74HC165.
 <div style="text-align:center"><img src ="https://github.com/ssxdan/SN74HC165_8Bit_shift_register_in/blob/master/Documentacion/882194.gif" /></div>
 
 El 74HC165 es un registro de almacenamiento, que permite leer los valores de sus patas de manera paralela y mandarlos secuencialmente.
